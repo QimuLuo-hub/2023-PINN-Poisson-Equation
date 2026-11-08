@@ -52,7 +52,7 @@ Each script trains a network, prints the loss and $L^2$ error every 100 iteratio
 
 ## Results
 
-The PINNs reach an $L^2$ error below $10^{-3}$ on these test problems. In the Neumann and Robin experiments, the boundary-loss weights had the largest effect on accuracy, more than the iteration count, the number of points or the architecture. The full write-up, with figures and tables, is in the companion repository [2023-ANN](https://github.com/QimuLuo-hub/2023-ANN).
+The PINNs reach an $L^2$ error below $10^{-3}$ on these test problems. In the Neumann and Robin experiments, the boundary-loss weights had the largest effect on accuracy, more than the iteration count, the number of points or the architecture. The full write-up, with figures and tables, is in the companion repository [2023-ANN-for-PDEs](https://github.com/QimuLuo-hub/2023-ANN-for-PDEs).
 
 ## References
 
